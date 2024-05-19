@@ -1,4 +1,4 @@
-# Module Federation Angular v.14 & React v.18
+<!-- # Module Federation Angular v.14 & React v.18
 
 This project shows an example of using Webpack 5 Module Federation for Angular `14.2.0` app with injected remote React `18.2.0` module. NGXS state management is used in Angular app, state is shared between Angular app and React module. Angular app was developed based on the example `angular11-microfrontends-ngxs`.
 
@@ -133,4 +133,4 @@ These references might be usefull in addition to this project in case you are go
 4. https://medium.com/@zacky_14189/embedding-react-components-in-angular-the-easy-way-60f796b68aef
 
 
-
+ -->
